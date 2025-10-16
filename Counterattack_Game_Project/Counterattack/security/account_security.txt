@@ -1,0 +1,1 @@
+Account protection enabled. Password encryption active.
